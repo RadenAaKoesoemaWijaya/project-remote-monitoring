@@ -1,0 +1,5 @@
+timestamp,unit,kapasitas_total,bed_terpakai,bed_tersedia
+2025-02-19 16:11:28,Instalasi Gawat Darurat,10,7,3
+2025-02-19 16:11:28,Ruang ICU,8,4,4
+2025-02-19 16:11:28,Instalasi Bedah Sentral,5,2,3
+2025-02-19 16:11:28,Ruang Rawat Inap,20,13,7
